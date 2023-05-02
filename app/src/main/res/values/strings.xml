@@ -2,5 +2,7 @@
     <string name="app_name">5.1C_NewsApp</string>
     <string name="top_stories">Top Stories</string>
     <string name="news">News</string>
-
+    <string name="related_stories_string">Related Stories</string>
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
